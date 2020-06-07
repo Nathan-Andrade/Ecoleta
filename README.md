@@ -1,6 +1,6 @@
 # Ecoleta - Next Level Week
 
-![](https://github.com/Nathan-Andrade/Ecoleta/blob/master/src/github/Logo.jpg?raw=true)
+![](https://raw.githubusercontent.com/Nathan-Andrade/Ecoleta/e65d26abfa437ef4b500f73e402d09feb86f8ae2/Public/assets/icones/logo.svg)
 
 ![](https://img.shields.io/github/languages/count/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/languages/top/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/repo-size/Nathan-Andrade/Ecoleta)
 
