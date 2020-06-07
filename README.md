@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/languages/count/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/languages/top/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/Ecoleta) ![](https://img.shields.io/github/repo-size/Nathan-Andrade/Ecoleta)
 
-Ecoleta foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat. A proposta dessa aplicação no Back-end e no Front-end é ajudar empresas de reciclagem a cadastrar o seu ponto de coleta e ajudar pessoas a encontrar esses pontos.
+**Ecoleta** foi um projeto desenvolvido na **Next Level Week** promovido pela Rocketseat. A proposta dessa aplicação no Back-end e no Front-end é ajudar empresas de reciclagem a cadastrar o seu ponto de coleta e ajudar pessoas a encontrar esses pontos.
 
 ## Front-end e Back-end
 
